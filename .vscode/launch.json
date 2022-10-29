@@ -8,7 +8,7 @@
             "name": "Launch Chrome against index.html",
             "type": "chrome",
             "request": "launch",
-            "file": "${workspaceFolder}/index.html",
+            "file": "${workspaceFolder}/calculadoraSimple.html",
         },
         {
             "name": "Launch Chrome against localhost",
