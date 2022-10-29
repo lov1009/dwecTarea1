@@ -28,6 +28,6 @@ Realiza un web que haga uso de JavaScript para operar como una calculadora simpl
 
 Permitir al usuario introducir dos valores mediante un formulario (valor 1 y valor 2).
 Permitir seleccionar una de las siguientes operaciones matemáticas: suma, resta, multiplicación, división, modulo y potencia.
-El resultado debe aparecer dentro de una etiqueta <h1 id="resultado"></h1>
+El resultado debe aparecer dentro de una etiqueta h1 con id="resultado"
 Comprobar si hay algún valor error para la operación matemática seleccionada.
 La función potencia debe ser implementada haciendo uso de bucles.
